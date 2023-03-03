@@ -20,7 +20,7 @@
 <div>&nbsp</div>
 <div>&nbsp</div>
 <div align="center">
-  <img src="guarantee_label.png">
+  <img src="profile/guarantee_label.png">
 </div>
 <div>&nbsp</div>
 
