@@ -20,7 +20,9 @@
 <div>&nbsp</div>
 <div>&nbsp</div>
 <div align="center">
-  <img src="profile/guarantee_label.png">
+  <a href="https://shittypasswords.com" target="_blank">
+    <img src="profile/guarantee_label.png">
+  </a>
 </div>
 <div>&nbsp</div>
 
