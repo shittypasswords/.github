@@ -21,7 +21,7 @@
 <div>&nbsp</div>
 <div align="center">
   <a href="https://shittypasswords.com" target="_blank">
-    <img src="profile/guarantee_label.png">
+    <img src="https://github.com/shittypasswords/.github/blob/master/profile/guarantee_label.png">
   </a>
 </div>
 <div>&nbsp</div>
